@@ -27,5 +27,3 @@ Any additional information that may be helpful.
 All reports will be reviewed by a multi-person team and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
-
-This code of conduct was based off of Microsoft's open-source community code of conduct because it effectively describes how this project is inclusive and welcoming to everyone, no matter who they are. We want to seem welcoming to the people who will be the ones improving the system we creat
